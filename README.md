@@ -1,4 +1,4 @@
-# jdf-img-minifly
+# jdf-img-minify
 
 > JDF 图片处理集成工具包
 
@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install --save jdf-img-minifly
+$ npm install --save jdf-img-minify
 ```
 
 

@@ -1,9 +1,9 @@
 {
-  "name": "jdf-img-minifly",
+  "name": "jdf-img-minify",
   "author": {
     "name": "wshxbqq",
     "email": "wshxbqq@gmail.com",
-    "url": "https://github.com/wshxbqq/jdf-img-minifly.git"
+    "url": "https://github.com/wshxbqq/jdf-img-minify.git"
   },
   "contributors": [],
   "dependencies": {
@@ -34,5 +34,5 @@
       "email": "wshxbqq@gmail.com"
     }
   ],
-  "version": "0.0.2"
+  "version": "0.0.3"
 }
