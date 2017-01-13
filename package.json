@@ -7,11 +7,11 @@
   },
   "contributors": [],
   "dependencies": {
-    "jdf-gif": "^0.0.1",
-    "jdf-jpg": "^0.0.1",
-    "jdf-png": "^0.0.1",
-    "jdf-webp-gif": "^0.0.1",
-    "jdf-webp-png": "^0.0.1"
+    "jdf-gif": "^0.0.2",
+    "jdf-jpg": "^0.0.2",
+    "jdf-png": "^0.0.2",
+    "jdf-webp-gif": "^0.0.2",
+    "jdf-webp-png": "^0.0.2"
   },
   "description": "support png jpg gif webp.",
   "directories": {},
@@ -34,5 +34,5 @@
       "email": "wshxbqq@gmail.com"
     }
   ],
-  "version": "0.0.4"
+  "version": "0.0.6"
 }
