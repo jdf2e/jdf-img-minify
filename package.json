@@ -8,7 +8,7 @@
   "contributors": [],
   "dependencies": {
     "jdf-gif": "^0.0.2",
-    "jdf-jpg": "^0.0.2",
+    "jdf-jpg": "^0.0.3",
     "jdf-png": "^0.0.2",
     "jdf-webp-gif": "^0.0.2",
     "jdf-webp-png": "^0.0.2"
