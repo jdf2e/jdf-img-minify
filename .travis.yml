@@ -1,0 +1,21 @@
+sudo: true
+language: node_js
+os:
+  - linux
+  - osx
+before_script:
+  - npm install
+  - node lib/install.js
+before_install:
+  - sudo chmod +x ./test/deploy.sh
+install:
+  - if [[ $TRAVIS_OS_NAME == linux ]]; then sudo ./test/deploy.sh; fi;
+node_js:
+  - '6'
+  - '5'
+  - '4'
+addons:
+  apt:
+    packages:
+      - libpng-dev
+      - zlib1g-dev

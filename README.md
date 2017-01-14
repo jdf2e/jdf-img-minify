@@ -12,7 +12,7 @@ $ npm install --save jdf-img-minify
 
 ## Usage
 
-jdfImg.all 自动根据文件扩展名压缩
+### jdfImg.all 自动根据文件扩展名压缩
 
 ```js
 /**
