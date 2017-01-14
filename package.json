@@ -4,15 +4,15 @@
     "author": {
         "name": "wshxbqq",
         "email": "wshxbqq@gmail.com",
-        "url": "https://github.com/jdf2e/jdf-img-minify.git"
+        "url": "github.com/jdf2e/jdf-img-minify.git"
     },
     "contributors": [],
     "dependencies": {
-        "jdf-gif": "^0.0.2",
-        "jdf-jpg": "^0.0.2",
-        "jdf-png": "^0.0.2",
-        "jdf-webp-gif": "^0.0.2",
-        "jdf-webp-png": "^0.0.2"
+        "jdf-gif": "^0.0.4",
+        "jdf-jpg": "^0.0.4",
+        "jdf-png": "^0.0.4",
+        "jdf-webp-gif": "^0.0.4",
+        "jdf-webp-png": "^0.0.4"
     },
     "scripts": {
         "test": "node test/index.js"
@@ -26,15 +26,10 @@
         "lib",
         "index.js"
     ],
-    "homepage": "https://github.com/jdf2e/jdf",
     "keywords": [
-        "jdf"
+        "jdf-img-minify"
     ],
     "license": "MIT",
     "main": "index.js",
-    "maintainers": [{
-        "name": "wshxbqq",
-        "email": "wshxbqq@gmail.com"
-    }],
     "version": "0.0.8"
 }
