@@ -1,3 +1,7 @@
+[![NPM](https://nodei.co/npm/jdf-img-minify.png?downloads=true)](https://nodei.co/npm/jdf-img-minify/)
+
+[![NPM version](https://badge.fury.io/js/jdf-img-minify.png)](http://badge.fury.io/js/jdf-img-minify) [![Build Status](https://travis-ci.org/jdf2e/jdf-img-minify.svg?branch=master)](https://travis-ci.org/jdf2e/jdf-img-minify)
+
 # jdf-img-minify
 
 > JDF 图片处理集成工具包
