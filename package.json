@@ -8,11 +8,11 @@
     },
     "contributors": [],
     "dependencies": {
-        "jdf-gif": "^0.0.4",
-        "jdf-jpg": "^0.0.4",
-        "jdf-png": "^0.0.4",
-        "jdf-webp-gif": "^0.0.4",
-        "jdf-webp-png": "^0.0.4"
+        "jdf-gif": "^0.0.5",
+        "jdf-jpg": "^0.0.5",
+        "jdf-png": "^0.0.5",
+        "jdf-webp-gif": "^0.0.5",
+        "jdf-webp-png": "^0.0.5"
     },
     "scripts": {
         "test": "node test/index.js"
@@ -24,12 +24,13 @@
     },
     "files": [
         "lib",
-        "index.js"
+        "index.js",
+        "test"
     ],
     "keywords": [
         "jdf-img-minify"
     ],
     "license": "MIT",
     "main": "index.js",
-    "version": "0.0.8"
+    "version": "0.1.0"
 }

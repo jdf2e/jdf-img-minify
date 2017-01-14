@@ -20,7 +20,7 @@ for (var i in testPath) {
 
 function unionCallback(info) {
     if (info.error) {
-        throw info
+        throw info.error
     } else {
         console.log(info);
     }
