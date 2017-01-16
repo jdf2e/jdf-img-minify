@@ -1,6 +1,10 @@
 {
     "name": "jdf-img-minify",
     "readmeFilename": "readme.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jdf2e/jdf-img-minify.git"
+    },
     "author": {
         "name": "wshxbqq",
         "email": "wshxbqq@gmail.com",
